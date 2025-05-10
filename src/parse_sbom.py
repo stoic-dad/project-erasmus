@@ -1,26 +1,61 @@
-import json
 import pandas as pd
+import json
 
-def extract_vendors(sbom_file):
-    with open(sbom_file) as f:
-        sbom = json.load(f)
-    return [comp['publisher'] for comp in sbom.get('components', []) if 'publisher' in comp]
+def extract_components(file_path):
+    with open(file_path, 'r') as f:
+        content = f.read()
+        if not content.strip():
+            return pd.DataFrame()
+        sbom = json.loads(content)
 
-def extract_cve_and_levels(sbom_file):
-    with open(sbom_file) as f:
-        sbom = json.load(f)
-
-    severity_counts = {'critical': 0, 'high': 0, 'medium': 0}
-    level_counts = {'level 0': 0, 'level 1': 0, 'level 2': 0, 'level 3': 0}
-
+    components = []
     for comp in sbom.get('components', []):
-        for cve in comp.get('cves', []):
-            severity = cve.get('severity')
-            if severity in severity_counts:
-                severity_counts[severity] += 1
+        supplier_field = comp.get('supplier')
+        if isinstance(supplier_field, dict):
+            supplier = supplier_field.get('name')
+        elif isinstance(supplier_field, str):
+            supplier = supplier_field
+        else:
+            supplier = None
 
-        level = comp.get('level')
-        if level in level_counts:
-            level_counts[level] += 1
+        publisher_field = comp.get('publisher')
+        if isinstance(publisher_field, dict):
+            publisher = publisher_field.get('name')
+        elif isinstance(publisher_field, str):
+            publisher = publisher_field
+        else:
+            publisher = None
 
-    return severity_counts, level_counts
+        supplier = supplier or publisher or comp.get('name') or 'Unknown'
+
+        components.append({
+            'name': comp.get('name'),
+            'version': comp.get('version'),
+            'type': comp.get('type'),
+            'supplier': supplier,
+            'license': comp.get('licenses', [{}])[0].get('license', {}).get('id', 'Unknown'),
+            'hash': comp.get('hashes', [{}])[0].get('content', 'N/A'),
+            'level': comp.get('properties', [{}])[0].get('name', 'level-0')
+        })
+    return pd.DataFrame(components)
+
+def extract_cve_and_levels(file_path):
+    return {'Critical': 0, 'High': 0, 'Medium': 0, 'Low': 0}, {'Level 0': 0, 'Level 1': 0}
+
+def extract_vulnerabilities(file_path):
+    with open(file_path, 'r') as f:
+        content = f.read()
+        if not content.strip():
+            return pd.DataFrame()
+        sbom_vulns = json.loads(content)
+
+    vulns = []
+    for vuln in sbom_vulns.get('vulnerabilities', []):
+        vulns.append({
+            'id': vuln.get('id'),
+            'source': vuln.get('source', {}).get('name', 'Unknown'),
+            'severity': vuln.get('ratings', [{}])[0].get('severity', 'Unknown'),
+            'description': vuln.get('description', 'No description'),
+            'affects': vuln.get('affects', [{}])[0].get('ref', 'Unknown'),
+        })
+    return pd.DataFrame(vulns)

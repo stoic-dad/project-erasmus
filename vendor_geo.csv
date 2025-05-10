@@ -1,0 +1,937 @@
+vendor,hq_country,geo_region
+/bin/[,Unknown,Unknown
+/bin/busybox,Unknown,Unknown
+/influx,Unknown,Unknown
+/influxdb2-2.7.11/usr/bin/influxd,Unknown,Unknown
+/lib/apk/db/installed,Unknown,Unknown
+/lib/ld-musl-aarch64.so.1,Unknown,Unknown
+/opt/cassandra/lib/HdrHistogram-2.1.12.jar,Unknown,Unknown
+/opt/cassandra/lib/ST4-4.0.8.jar,Unknown,Unknown
+/opt/cassandra/lib/aarch64/AmazonCorrettoCryptoProvider-2.2.0-linux-aarch_64.jar,Unknown,Unknown
+/opt/cassandra/lib/affinity-3.23.3.jar,Unknown,Unknown
+/opt/cassandra/lib/agrona-1.17.1.jar,Unknown,Unknown
+/opt/cassandra/lib/airline-0.8.jar,Unknown,Unknown
+/opt/cassandra/lib/antlr-runtime-3.5.2.jar,Unknown,Unknown
+/opt/cassandra/lib/apache-cassandra-5.0.4.jar,Unknown,Unknown
+/opt/cassandra/lib/asm-9.4.jar,Unknown,Unknown
+/opt/cassandra/lib/big-math-2.3.0.jar,Unknown,Unknown
+/opt/cassandra/lib/caffeine-3.1.8.jar,Unknown,Unknown
+/opt/cassandra/lib/cassandra-driver-core-3.11.5-shaded.jar,Unknown,Unknown
+/opt/cassandra/lib/chronicle-bytes-2.23.33.jar,Unknown,Unknown
+/opt/cassandra/lib/chronicle-core-2.23.36.jar,Unknown,Unknown
+/opt/cassandra/lib/chronicle-queue-5.23.37.jar,Unknown,Unknown
+/opt/cassandra/lib/chronicle-threads-2.23.25.jar,Unknown,Unknown
+/opt/cassandra/lib/chronicle-wire-2.23.39.jar,Unknown,Unknown
+/opt/cassandra/lib/commons-cli-1.5.0.jar,Unknown,Unknown
+/opt/cassandra/lib/commons-lang3-3.13.0.jar,Unknown,Unknown
+/opt/cassandra/lib/commons-math3-3.2.jar,Unknown,Unknown
+/opt/cassandra/lib/concurrent-trees-2.4.0.jar,Unknown,Unknown
+/opt/cassandra/lib/ecj-3.33.0.jar,Unknown,Unknown
+/opt/cassandra/lib/failureaccess-1.0.1.jar,Unknown,Unknown
+/opt/cassandra/lib/guava-32.0.1-jre.jar,Unknown,Unknown
+/opt/cassandra/lib/high-scale-lib-1.0.6.jar,Unknown,Unknown
+/opt/cassandra/lib/hppc-0.8.1.jar,Unknown,Unknown
+/opt/cassandra/lib/ipaddress-5.3.3.jar,Unknown,Unknown
+/opt/cassandra/lib/j2objc-annotations-1.3.jar,Unknown,Unknown
+/opt/cassandra/lib/jackson-annotations-2.13.2.jar,Unknown,Unknown
+/opt/cassandra/lib/jackson-core-2.13.2.jar,Unknown,Unknown
+/opt/cassandra/lib/jackson-databind-2.13.2.2.jar,Unknown,Unknown
+/opt/cassandra/lib/jackson-datatype-jsr310-2.13.2.jar,Unknown,Unknown
+/opt/cassandra/lib/jamm-0.4.0.jar,Unknown,Unknown
+/opt/cassandra/lib/jbcrypt-0.4.jar,Unknown,Unknown
+/opt/cassandra/lib/jcl-over-slf4j-1.7.36.jar,Unknown,Unknown
+/opt/cassandra/lib/jcommander-1.30.jar,Unknown,Unknown
+/opt/cassandra/lib/jctools-core-3.1.0.jar,Unknown,Unknown
+/opt/cassandra/lib/jffi-1.3.11-native.jar,Unknown,Unknown
+/opt/cassandra/lib/jffi-1.3.11.jar,Unknown,Unknown
+/opt/cassandra/lib/jna-5.13.0.jar,Unknown,Unknown
+/opt/cassandra/lib/jna-platform-5.13.0.jar,Unknown,Unknown
+/opt/cassandra/lib/jnr-a64asm-1.0.0.jar,Unknown,Unknown
+/opt/cassandra/lib/jnr-constants-0.10.4.jar,Unknown,Unknown
+/opt/cassandra/lib/jnr-ffi-2.2.13.jar,Unknown,Unknown
+/opt/cassandra/lib/jnr-x86asm-1.0.2.jar,Unknown,Unknown
+/opt/cassandra/lib/jsr305-2.0.2.jar,Unknown,Unknown
+/opt/cassandra/lib/jvector-1.0.2.jar,Unknown,Unknown
+/opt/cassandra/lib/jvm-attach-api-1.5.jar,Unknown,Unknown
+/opt/cassandra/lib/log4j-over-slf4j-1.7.36.jar,Unknown,Unknown
+/opt/cassandra/lib/logback-classic-1.2.12.jar,Unknown,Unknown
+/opt/cassandra/lib/logback-core-1.2.12.jar,Unknown,Unknown
+/opt/cassandra/lib/lucene-analysis-common-9.7.0.jar,Unknown,Unknown
+/opt/cassandra/lib/lucene-core-9.7.0.jar,Unknown,Unknown
+/opt/cassandra/lib/lz4-java-1.8.0.jar,Unknown,Unknown
+/opt/cassandra/lib/metrics-core-4.2.19.jar,Unknown,Unknown
+/opt/cassandra/lib/metrics-jvm-4.2.19.jar,Unknown,Unknown
+/opt/cassandra/lib/metrics-logback-4.2.19.jar,Unknown,Unknown
+/opt/cassandra/lib/mxdump-0.14.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-all-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-buffer-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-codec-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-common-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-handler-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-handler-proxy-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-handler-ssl-ocsp-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-resolver-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-tcnative-boringssl-static-2.0.70.Final-linux-aarch_64.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-tcnative-boringssl-static-2.0.70.Final-linux-x86_64.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-tcnative-boringssl-static-2.0.70.Final-osx-aarch_64.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-tcnative-boringssl-static-2.0.70.Final-osx-x86_64.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-tcnative-boringssl-static-2.0.70.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-tcnative-classes-2.0.70.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-transport-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-transport-classes-epoll-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-transport-classes-kqueue-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-transport-native-epoll-4.1.119.Final-linux-aarch_64.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-transport-native-epoll-4.1.119.Final-linux-x86_64.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-transport-native-epoll-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/netty-transport-native-unix-common-4.1.119.Final.jar,Unknown,Unknown
+/opt/cassandra/lib/ohc-core-0.5.1.jar,Unknown,Unknown
+/opt/cassandra/lib/ohc-core-j8-0.5.1.jar,Unknown,Unknown
+/opt/cassandra/lib/posix-2.24ea4.jar,Unknown,Unknown
+/opt/cassandra/lib/psjava-0.1.19.jar,Unknown,Unknown
+/opt/cassandra/lib/semver4j-3.1.0.jar,Unknown,Unknown
+/opt/cassandra/lib/sigar-1.6.4.jar,Unknown,Unknown
+/opt/cassandra/lib/sjk-cli-0.14.jar,Unknown,Unknown
+/opt/cassandra/lib/sjk-core-0.14.jar,Unknown,Unknown
+/opt/cassandra/lib/sjk-json-0.14.jar,Unknown,Unknown
+/opt/cassandra/lib/sjk-stacktrace-0.14.jar,Unknown,Unknown
+/opt/cassandra/lib/slf4j-api-1.7.36.jar,Unknown,Unknown
+/opt/cassandra/lib/snakeyaml-1.26.jar,Unknown,Unknown
+/opt/cassandra/lib/snappy-java-1.1.10.4.jar,Unknown,Unknown
+/opt/cassandra/lib/stream-2.5.2.jar,Unknown,Unknown
+/opt/cassandra/lib/x86_64/AmazonCorrettoCryptoProvider-2.2.0-linux-x86_64.jar,Unknown,Unknown
+/opt/cassandra/lib/zstd-jni-1.5.7-2.jar,Unknown,Unknown
+/opt/cassandra/tools/lib/fqltool.jar,Unknown,Unknown
+/opt/cassandra/tools/lib/stress.jar,Unknown,Unknown
+/opt/erlang/lib/erlang/erts-15.2.7/bin/beam.smp,Unknown,Unknown
+/opt/erlang/lib/erlang/erts-15.2.7/bin/erlexec,Unknown,Unknown
+/opt/erlang/lib/erlang/erts-15.2.7/lib/internal/liberts_internal.a,Unknown,Unknown
+/opt/java/openjdk/NOTICE,Unknown,Unknown
+/opt/java/openjdk/bin/java,Unknown,Unknown
+/opt/java/openjdk/bin/jfr,Unknown,Unknown
+/opt/java/openjdk/bin/jrunscript,Unknown,Unknown
+/opt/java/openjdk/bin/keytool,Unknown,Unknown
+/opt/java/openjdk/bin/rmiregistry,Unknown,Unknown
+/opt/java/openjdk/conf/logging.properties,Unknown,Unknown
+/opt/java/openjdk/conf/management/jmxremote.access,Unknown,Unknown
+/opt/java/openjdk/conf/management/jmxremote.password.template,Unknown,Unknown
+/opt/java/openjdk/conf/management/management.properties,Unknown,Unknown
+/opt/java/openjdk/conf/net.properties,Unknown,Unknown
+/opt/java/openjdk/conf/sdp/sdp.conf.template,Unknown,Unknown
+/opt/java/openjdk/conf/security/java.policy,Unknown,Unknown
+/opt/java/openjdk/conf/security/java.security,Unknown,Unknown
+/opt/java/openjdk/conf/security/policy/README.txt,Unknown,Unknown
+/opt/java/openjdk/conf/security/policy/limited/default_US_export.policy,Unknown,Unknown
+/opt/java/openjdk/conf/security/policy/limited/default_local.policy,Unknown,Unknown
+/opt/java/openjdk/conf/security/policy/limited/exempt_local.policy,Unknown,Unknown
+/opt/java/openjdk/conf/security/policy/unlimited/default_US_export.policy,Unknown,Unknown
+/opt/java/openjdk/conf/security/policy/unlimited/default_local.policy,Unknown,Unknown
+/opt/java/openjdk/conf/sound.properties,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/ADDITIONAL_LICENSE_INFO,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/ASSEMBLY_EXCEPTION,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/LICENSE,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/aes.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/asm.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/c-libutl.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/cldr.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/icu.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/public_suffix.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/siphash.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/unicode.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.base/zlib.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.desktop/colorimaging.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.desktop/giflib.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.desktop/harfbuzz.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.desktop/jpeg.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.desktop/lcms.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.desktop/libpng.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.desktop/mesa3d.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.desktop/pipewire.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.desktop/xwd.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.smartcardio/pcsclite.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.xml.crypto/santuario.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.xml/bcel.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.xml/dom.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.xml/jcup.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.xml/xalan.md,Unknown,Unknown
+/opt/java/openjdk/legal/java.xml/xerces.md,Unknown,Unknown
+/opt/java/openjdk/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md,Unknown,Unknown
+/opt/java/openjdk/legal/jdk.crypto.cryptoki/pkcs11wrapper.md,Unknown,Unknown
+/opt/java/openjdk/legal/jdk.dynalink/dynalink.md,Unknown,Unknown
+/opt/java/openjdk/legal/jdk.localedata/thaidict.md,Unknown,Unknown
+/opt/java/openjdk/lib/classlist,Unknown,Unknown
+/opt/java/openjdk/lib/jexec,Unknown,Unknown
+/opt/java/openjdk/lib/jfr/default.jfc,Unknown,Unknown
+/opt/java/openjdk/lib/jfr/profile.jfc,Unknown,Unknown
+/opt/java/openjdk/lib/jrt-fs.jar,Unknown,Unknown
+/opt/java/openjdk/lib/jspawnhelper,Unknown,Unknown
+/opt/java/openjdk/lib/jvm.cfg,Unknown,Unknown
+/opt/java/openjdk/lib/libawt.so,Unknown,Unknown
+/opt/java/openjdk/lib/libawt_headless.so,Unknown,Unknown
+/opt/java/openjdk/lib/libawt_xawt.so,Unknown,Unknown
+/opt/java/openjdk/lib/libdt_socket.so,Unknown,Unknown
+/opt/java/openjdk/lib/libextnet.so,Unknown,Unknown
+/opt/java/openjdk/lib/libfontmanager.so,Unknown,Unknown
+/opt/java/openjdk/lib/libinstrument.so,Unknown,Unknown
+/opt/java/openjdk/lib/libj2gss.so,Unknown,Unknown
+/opt/java/openjdk/lib/libj2pcsc.so,Unknown,Unknown
+/opt/java/openjdk/lib/libj2pkcs11.so,Unknown,Unknown
+/opt/java/openjdk/lib/libjaas.so,Unknown,Unknown
+/opt/java/openjdk/lib/libjava.so,Unknown,Unknown
+/opt/java/openjdk/lib/libjavajpeg.so,Unknown,Unknown
+/opt/java/openjdk/lib/libjawt.so,Unknown,Unknown
+/opt/java/openjdk/lib/libjdwp.so,Unknown,Unknown
+/opt/java/openjdk/lib/libjimage.so,Unknown,Unknown
+/opt/java/openjdk/lib/libjli.so,Unknown,Unknown
+/opt/java/openjdk/lib/libjsig.so,Unknown,Unknown
+/opt/java/openjdk/lib/libjsound.so,Unknown,Unknown
+/opt/java/openjdk/lib/liblcms.so,Unknown,Unknown
+/opt/java/openjdk/lib/libmanagement.so,Unknown,Unknown
+/opt/java/openjdk/lib/libmanagement_agent.so,Unknown,Unknown
+/opt/java/openjdk/lib/libmanagement_ext.so,Unknown,Unknown
+/opt/java/openjdk/lib/libmlib_image.so,Unknown,Unknown
+/opt/java/openjdk/lib/libnet.so,Unknown,Unknown
+/opt/java/openjdk/lib/libnio.so,Unknown,Unknown
+/opt/java/openjdk/lib/libprefs.so,Unknown,Unknown
+/opt/java/openjdk/lib/librmi.so,Unknown,Unknown
+/opt/java/openjdk/lib/libsctp.so,Unknown,Unknown
+/opt/java/openjdk/lib/libsplashscreen.so,Unknown,Unknown
+/opt/java/openjdk/lib/libsyslookup.so,Unknown,Unknown
+/opt/java/openjdk/lib/libverify.so,Unknown,Unknown
+/opt/java/openjdk/lib/libzip.so,Unknown,Unknown
+/opt/java/openjdk/lib/modules,Unknown,Unknown
+/opt/java/openjdk/lib/psfont.properties.ja,Unknown,Unknown
+/opt/java/openjdk/lib/psfontj2d.properties,Unknown,Unknown
+/opt/java/openjdk/lib/security/blocked.certs,Unknown,Unknown
+/opt/java/openjdk/lib/security/cacerts,Unknown,Unknown
+/opt/java/openjdk/lib/security/default.policy,Unknown,Unknown
+/opt/java/openjdk/lib/security/public_suffix_list.dat,Unknown,Unknown
+/opt/java/openjdk/lib/server/classes.jsa,Unknown,Unknown
+/opt/java/openjdk/lib/server/classes_nocoops.jsa,Unknown,Unknown
+/opt/java/openjdk/lib/server/libjsig.so,Unknown,Unknown
+/opt/java/openjdk/lib/server/libjvm.so,Unknown,Unknown
+/opt/java/openjdk/lib/tzdb.dat,Unknown,Unknown
+/opt/java/openjdk/release,Unknown,Unknown
+/opt/js-yaml/package.json,Unknown,Unknown
+/opt/openssl/bin/openssl,Unknown,Unknown
+/opt/yarn-v1.22.22/package.json,Unknown,Unknown
+/run/motd,Unknown,Unknown
+/sbin/apk,Unknown,Unknown
+/sbin/ldconfig,Unknown,Unknown
+@isaacs/cliui,Unknown,Unknown
+@isaacs/fs-minipass,Unknown,Unknown
+@isaacs/string-locale-compare,Unknown,Unknown
+@npmcli/agent,Unknown,Unknown
+@npmcli/arborist,Unknown,Unknown
+@npmcli/config,Unknown,Unknown
+@npmcli/fs,Unknown,Unknown
+@npmcli/git,Unknown,Unknown
+@npmcli/installed-package-contents,Unknown,Unknown
+@npmcli/map-workspaces,Unknown,Unknown
+@npmcli/metavuln-calculator,Unknown,Unknown
+@npmcli/name-from-folder,Unknown,Unknown
+@npmcli/node-gyp,Unknown,Unknown
+@npmcli/package-json,Unknown,Unknown
+@npmcli/promise-spawn,Unknown,Unknown
+@npmcli/query,Unknown,Unknown
+@npmcli/redact,Unknown,Unknown
+@npmcli/run-script,Unknown,Unknown
+@pkgjs/parseargs,Unknown,Unknown
+@sigstore/bundle,Unknown,Unknown
+@sigstore/core,Unknown,Unknown
+@sigstore/protobuf-specs,Unknown,Unknown
+@sigstore/sign,Unknown,Unknown
+@sigstore/tuf,Unknown,Unknown
+@sigstore/verify,Unknown,Unknown
+@tufjs/canonical-json,Unknown,Unknown
+@tufjs/models,Unknown,Unknown
+APT Development Team <deity@lists.debian.org>,Unknown,Unknown
+Alastair McKinstry <mckinstry@debian.org>,Unknown,Unknown
+Alessandro Ghedini <ghedo@debian.org>,Unknown,Unknown
+AmazonCorrettoCryptoProvider,Unknown,Unknown
+Andreas Metzler <ametzler@debian.org>,Unknown,Unknown
+Andrej Shadura <andrewsh@debian.org>,Unknown,Unknown
+Anibal Monsalve Salazar <anibal@debian.org>,Unknown,Unknown
+Barak A. Pearlmutter <bap@debian.org>,Unknown,Unknown
+Bastian Germann <bage@debian.org>,Unknown,Unknown
+Benjamin Barenblat <bbaren@debian.org>,Unknown,Unknown
+Bernd Zeimetz <bzed@debian.org>,Unknown,Unknown
+Boyuan Yang <byang@debian.org>,Unknown,Unknown
+Christian Kastner <ckk@debian.org>,Unknown,Unknown
+Christoph Biedl <debian.axhn@manchmal.in-ulm.de>,Unknown,Unknown
+Clint Adams <clint@debian.org>,Unknown,Unknown
+Colin Watson <cjwatson@debian.org>,Unknown,Unknown
+Compass Team <compass@mongodb.com>,Unknown,Unknown
+Craig Small <csmall@debian.org>,Unknown,Unknown
+Debconf Developers <debconf-devel@lists.alioth.debian.org>,Unknown,Unknown
+Debian Adduser Developers <adduser@packages.debian.org>,Unknown,Unknown
+Debian Apache Maintainers <debian-apache@lists.debian.org>,Unknown,Unknown
+Debian Authentication Maintainers <pkg-auth-maintainers@lists.alioth.debian.org>,Unknown,Unknown
+Debian Bluetooth Maintainers <team+pkg-bluetooth@tracker.debian.org>,Unknown,Unknown
+Debian Cyrus Team <team+cyrus@tracker.debian.org>,Unknown,Unknown
+Debian Elfutils Maintainers <debian-gcc@lists.debian.org>,Unknown,Unknown
+Debian Fonts Task Force <debian-fonts@lists.debian.org>,Unknown,Unknown
+Debian GCC Maintainers <debian-gcc@lists.debian.org>,Unknown,Unknown
+Debian GIS Project <pkg-grass-devel@lists.alioth.debian.org>,Unknown,Unknown
+Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>,Unknown,Unknown
+Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>,Unknown,Unknown
+Debian GnuPG-Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>,Unknown,Unknown
+Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>,Unknown,Unknown
+Debian Hebrew Packaging Team <team+hebrew@tracker.debian.org>,Unknown,Unknown
+Debian Install System Team <debian-boot@lists.debian.org>,Unknown,Unknown
+Debian Julia Team <pkg-julia-devel@lists.alioth.debian.org>,Unknown,Unknown
+Debian Kernel Team <debian-kernel@lists.debian.org>,Unknown,Unknown
+Debian Libidn team <help-libidn@gnu.org>,Unknown,Unknown
+Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>,Unknown,Unknown
+Debian Lua Team <pkg-lua-devel@lists.alioth.debian.org>,Unknown,Unknown
+Debian Med Packaging Team <debian-med-packaging@lists.alioth.debian.org>,Unknown,Unknown
+Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>,Unknown,Unknown
+Debian MySQL Maintainers <pkg-mysql-maint@lists.alioth.debian.org>,Unknown,Unknown
+Debian OpenLDAP Maintainers <pkg-openldap-devel@lists.alioth.debian.org>,Unknown,Unknown
+Debian OpenSSH Maintainers <debian-ssh@lists.debian.org>,Unknown,Unknown
+Debian OpenSSL Team <pkg-openssl-devel@alioth-lists.debian.net>,Unknown,Unknown
+Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>,Unknown,Unknown
+Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>,Unknown,Unknown
+Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>,Unknown,Unknown
+Debian Python Team <team+python@tracker.debian.org>,Unknown,Unknown
+Debian QA Group <packages@qa.debian.org>,Unknown,Unknown
+Debian Release Team <packages@release.debian.org>,Unknown,Unknown
+Debian Rust Maintainers <pkg-rust-maintainers@alioth-lists.debian.net>,Unknown,Unknown
+Debian SELinux maintainers <selinux-devel@lists.alioth.debian.org>,Unknown,Unknown
+Debian SSSD Team <pkg-sssd-devel@lists.alioth.debian.org>,Unknown,Unknown
+Debian Science Maintainers <debian-science-maintainers@lists.alioth.debian.org>,Unknown,Unknown
+Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>,Unknown,Unknown
+Debian Tcl/Tk Packagers <pkg-tcltk-devel@lists.alioth.debian.org>,Unknown,Unknown
+Debian X Strike Force <debian-x@lists.debian.org>,Unknown,Unknown
+Debian XML/SGML Group <debian-xml-sgml-pkgs@lists.alioth.debian.org>,Unknown,Unknown
+Debian freedesktop.org maintainers <pkg-freedesktop-maintainers@lists.alioth.debian.org>,Unknown,Unknown
+Debian systemd Maintainers <pkg-systemd-maintainers@lists.alioth.debian.org>,Unknown,Unknown
+Debian sysvinit maintainers <debian-init-diversity@chiark.greenend.org.uk>,Unknown,Unknown
+Dimitri John Ledkov <dimitri.ledkov@canonical.com>,Unknown,Unknown
+Dpkg Developers <debian-dpkg@lists.debian.org>,Unknown,Unknown
+Eric Dorland <eric@debian.org>,Unknown,Unknown
+Faidon Liambotis <paravoid@debian.org>,Unknown,Unknown
+Florian Ernst <florian@debian.org>,Unknown,Unknown
+GD Team <team+gd@tracker.debian.org>,Unknown,Unknown
+GNU Libc Maintainers <debian-glibc@lists.debian.org>,Unknown,Unknown
+Guillem Jover <guillem@debian.org>,Unknown,Unknown
+HdrHistogram,Unknown,Unknown
+Henrique de Moraes Holschuh <hmh@debian.org>,Unknown,Unknown
+Hugh McMaster <hugh.mcmaster@outlook.com>,Unknown,Unknown
+Håvard F. Aasen <havard.f.aasen@pfft.no>,Unknown,Unknown
+Ian Wienand <ianw@debian.org>,Unknown,Unknown
+ImageMagick Packaging Team <pkg-gmagick-im-team@lists.alioth.debian.org>,Unknown,Unknown
+James McCoy <jamessan@debian.org>,Unknown,Unknown
+Janos Lenart <ocsi@debian.org>,Unknown,Unknown
+Jeff Breidenbach <jab@debian.org>,Unknown,Unknown
+Jonathan Nieder <jrnieder@gmail.com>,Unknown,Unknown
+Josue Ortega <josue@debian.org>,Unknown,Unknown
+Julien Cristau <jcristau@debian.org>,Unknown,Unknown
+Jörg Frings-Fürst <debian@jff.email>,Unknown,Unknown
+Kees Cook <kees@debian.org>,Unknown,Unknown
+LLVM Packaging Team <pkg-llvm-team@lists.alioth.debian.org>,Unknown,Unknown
+Laszlo Boszormenyi (GCS) <gcs@debian.org>,Unknown,Unknown
+Laurent Bigonville <bigon@debian.org>,Unknown,Unknown
+Magnus Holmgren <holmgren@debian.org>,Unknown,Unknown
+Maintainers of libpng1.6 packages <libpng1.6@packages.debian.org>,Unknown,Unknown
+Manoj Srivastava <srivasta@debian.org>,Unknown,Unknown
+Marco d'Itri <md@linux.it>,Unknown,Unknown
+Mark Brown <broonie@debian.org>,Unknown,Unknown
+Matthew Vernon <matthew@debian.org>,Unknown,Unknown
+Matthias Klose <doko@debian.org>,Unknown,Unknown
+Michael Meskes <meskes@debian.org>,Unknown,Unknown
+Michael Stone <mstone@debian.org>,Unknown,Unknown
+Michael van der Kolff <mvanderkolff@gmail.com>,Unknown,Unknown
+Milan Kupcevic <milan@debian.org>,Unknown,Unknown
+Mime-Support Packagers <team+debian-mimesupport-packagers@tracker.debian.org>,Unknown,Unknown
+MongoDB Connectors Team <database-tools-packaging@mongodb.com>,Unknown,Unknown
+MongoDB Packaging <packaging@mongodb.com>,Unknown,Unknown
+NGINX Packaging <nginx-packaging@f5.com>,Unknown,Unknown
+Natanael Copa <ncopa@alpinelinux.org>,Unknown,Unknown
+Nicolas Mora <babelouest@debian.org>,Unknown,Unknown
+Niko Tyni <ntyni@debian.org>,Unknown,Unknown
+Nobuhiro Iwamatsu <iwamatsu@debian.org>,Unknown,Unknown
+Noël Köthe <noel@debian.org>,Unknown,Unknown
+Ondřej Surý <ondrej@debian.org>,Unknown,Unknown
+Oracle America,Unknown,Unknown
+Oracle and/or its affiliates,Unknown,Unknown
+Patrick Matthäi <pmatthaei@debian.org>,Unknown,Unknown
+RPM packaging team <team+pkg-rpm@tracker.debian.org>,Unknown,Unknown
+ST4,Unknown,Unknown
+Sam Hartman <hartmans@debian.org>,Unknown,Unknown
+Santiago Vila <sanvila@debian.org>,Unknown,Unknown
+Sebastian Andrzej Siewior <sebastian@breakpoint.cc>,Unknown,Unknown
+Shadow package maintainers <pkg-shadow-devel@lists.alioth.debian.org>,Unknown,Unknown
+Stephen Kitt <skitt@debian.org>,Unknown,Unknown
+Sören Tempel <soeren+alpine@soeren-tempel.net>,Unknown,Unknown
+Theodore Y. Ts'o <tytso@mit.edu>,Unknown,Unknown
+Theppitak Karoonboonyanan <thep@debian.org>,Unknown,Unknown
+Thomas Weber <tweber@debian.org>,Unknown,Unknown
+Tim Rühsen <tim.ruehsen@gmx.de>,Unknown,Unknown
+Tomasz Buchert <tomasz@debian.org>,Unknown,Unknown
+Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>,Unknown,Unknown
+Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>,Unknown,Unknown
+Utkarsh Gupta <utkarsh@ubuntu.com>,Unknown,Unknown
+Vincent Bernat <bernat@debian.org>,USA,North America
+Yangfl <mmyangfl@gmail.com>,Unknown,Unknown
+abbrev,Unknown,Unknown
+affinity,Unknown,Unknown
+agent-base,Unknown,Unknown
+agrona,Unknown,Unknown
+airline,Unknown,Unknown
+alpine,Unknown,Unknown
+ansi-regex,Unknown,Unknown
+ansi-styles,Unknown,Unknown
+antlr-runtime,Unknown,Unknown
+antlr4-python3-runtime,Unknown,Unknown
+apache-cassandra,Unknown,Unknown
+aproba,Unknown,Unknown
+archy,Unknown,Unknown
+asm,Unknown,Unknown
+autocommand,Unknown,Unknown
+backports-tarfile,Unknown,Unknown
+balanced-match,Unknown,Unknown
+bcrypt,Unknown,Unknown
+big-math,Unknown,Unknown
+bin-links,Unknown,Unknown
+binary-extensions,Unknown,Unknown
+brace-expansion,Unknown,Unknown
+busybox,Unknown,Unknown
+cacache,Unknown,Unknown
+caffeine,Unknown,Unknown
+cassandra-driver-core,Unknown,Unknown
+certifi,Unknown,Unknown
+cffi,Unknown,Unknown
+chalk,Unknown,Unknown
+chownr,Unknown,Unknown
+chronicle-bytes,Unknown,Unknown
+chronicle-core,Unknown,Unknown
+chronicle-queue,Unknown,Unknown
+chronicle-threads,Unknown,Unknown
+chronicle-wire,Unknown,Unknown
+ci-info,Unknown,Unknown
+cidr-regex,Unknown,Unknown
+circuitbreaker,Unknown,Unknown
+cli-columns,Unknown,Unknown
+cloud.google.com/go,Unknown,Unknown
+cloud.google.com/go/auth,Unknown,Unknown
+cloud.google.com/go/auth/oauth2adapt,Unknown,Unknown
+cloud.google.com/go/bigquery,Unknown,Unknown
+cloud.google.com/go/bigtable,Unknown,Unknown
+cloud.google.com/go/compute/metadata,Unknown,Unknown
+cloud.google.com/go/iam,Unknown,Unknown
+cloud.google.com/go/longrunning,Unknown,Unknown
+cmd-shim,Unknown,Unknown
+cmd/addr2line,Unknown,Unknown
+cmd/asm,Unknown,Unknown
+cmd/buildid,Unknown,Unknown
+cmd/cgo,Unknown,Unknown
+cmd/compile,Unknown,Unknown
+cmd/covdata,Unknown,Unknown
+cmd/cover,Unknown,Unknown
+cmd/doc,Unknown,Unknown
+cmd/fix,Unknown,Unknown
+cmd/go,Unknown,Unknown
+cmd/gofmt,Unknown,Unknown
+cmd/link,Unknown,Unknown
+cmd/nm,Unknown,Unknown
+cmd/objdump,Unknown,Unknown
+cmd/pack,Unknown,Unknown
+cmd/pprof,Unknown,Unknown
+cmd/preprofile,Unknown,Unknown
+cmd/test2json,Unknown,Unknown
+cmd/trace,Unknown,Unknown
+cmd/vet,Unknown,Unknown
+color-convert,Unknown,Unknown
+color-name,Unknown,Unknown
+common-ancestor-path,Unknown,Unknown
+commons-cli,Unknown,Unknown
+commons-lang3,Unknown,Unknown
+commons-math3,Unknown,Unknown
+concurrent-trees,Unknown,Unknown
+corepack,Unknown,Unknown
+cross-spawn,Unknown,Unknown
+cryptography,Unknown,Unknown
+cssesc,Unknown,Unknown
+debian,Unknown,Unknown
+debug,Unknown,Unknown
+diff,Unknown,Unknown
+eastasianwidth,Unknown,Unknown
+ecj,Unknown,Unknown
+emoji-regex,Unknown,Unknown
+encoding,Unknown,Unknown
+env-paths,Unknown,Unknown
+erlang,Unknown,Unknown
+err-code,Unknown,Unknown
+exponential-backoff,Unknown,Unknown
+failureaccess,Unknown,Unknown
+fastest-levenshtein,Unknown,Unknown
+fdir,Unknown,Unknown
+foreground-child,Unknown,Unknown
+fqltool,Unknown,Unknown
+fs-minipass,Unknown,Unknown
+github.com/99designs/keyring,Unknown,Unknown
+github.com/AlecAivazis/survey/v2,Unknown,Unknown
+github.com/Azure/azure-sdk-for-go/sdk/azcore,Unknown,Unknown
+github.com/Azure/azure-sdk-for-go/sdk/azidentity,Unknown,Unknown
+github.com/Azure/azure-sdk-for-go/sdk/internal,Unknown,Unknown
+github.com/Azure/azure-sdk-for-go/sdk/storage/azblob,Unknown,Unknown
+github.com/Azure/go-autorest/autorest,Unknown,Unknown
+github.com/Azure/go-autorest/autorest/adal,Unknown,Unknown
+github.com/Azure/go-autorest/autorest/azure/auth,Unknown,Unknown
+github.com/Azure/go-autorest/autorest/azure/cli,Unknown,Unknown
+github.com/Azure/go-autorest/autorest/date,Unknown,Unknown
+github.com/Azure/go-autorest/logger,Unknown,Unknown
+github.com/Azure/go-autorest/tracing,Unknown,Unknown
+github.com/AzureAD/microsoft-authentication-library-for-go,Unknown,Unknown
+github.com/BurntSushi/toml,Unknown,Unknown
+github.com/DATA-DOG/go-sqlmock,Unknown,Unknown
+github.com/JohnCGriffin/overflow,Unknown,Unknown
+github.com/Masterminds/squirrel,Unknown,Unknown
+github.com/NYTimes/gziphandler,Unknown,Unknown
+github.com/RoaringBitmap/roaring,Unknown,Unknown
+github.com/SAP/go-hdb,Unknown,Unknown
+github.com/alecthomas/chroma/v2,Unknown,Unknown
+github.com/andreyvit/diff,Unknown,Unknown
+github.com/apache/arrow/go/v15,Unknown,Unknown
+github.com/apache/arrow/go/v7,Unknown,Unknown
+github.com/atotto/clipboard,Unknown,Unknown
+github.com/aws/aws-sdk-go,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/credentials,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/feature/s3/manager,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/internal/configsources,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/internal/endpoints/v2,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/internal/v4a,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/service/internal/checksum,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/service/internal/presigned-url,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/service/internal/s3shared,Unknown,Unknown
+github.com/aws/aws-sdk-go-v2/service/s3,Unknown,Unknown
+github.com/aws/smithy-go,Unknown,Unknown
+github.com/benbjohnson/clock,Unknown,Unknown
+github.com/benbjohnson/immutable,Unknown,Unknown
+github.com/beorn7/perks,Unknown,Unknown
+github.com/bonitoo-io/go-sql-bigquery,Unknown,Unknown
+github.com/buger/jsonparser,Unknown,Unknown
+github.com/cespare/xxhash,Unknown,Unknown
+github.com/cespare/xxhash/v2,Unknown,Unknown
+github.com/charmbracelet/bubbles,Unknown,Unknown
+github.com/charmbracelet/bubbletea,Unknown,Unknown
+github.com/charmbracelet/lipgloss,Unknown,Unknown
+github.com/clbanning/mxj/v2,Unknown,Unknown
+github.com/containerd/console,Unknown,Unknown
+github.com/cpuguy83/go-md2man/v2,Unknown,Unknown
+github.com/davecgh/go-spew,Unknown,Unknown
+github.com/deckarep/golang-set/v2,Unknown,Unknown
+github.com/deepmap/oapi-codegen,Unknown,Unknown
+github.com/denisenkom/go-mssqldb,Unknown,Unknown
+github.com/dgryski/go-bitstream,Unknown,Unknown
+github.com/dimchansky/utfbom,Unknown,Unknown
+github.com/dlclark/regexp2,Unknown,Unknown
+github.com/dustin/go-humanize,Unknown,Unknown
+github.com/dvsekhvalnov/jose2go,Unknown,Unknown
+github.com/eclipse/paho.mqtt.golang,Unknown,Unknown
+github.com/elazarl/go-bindata-assetfs,Unknown,Unknown
+github.com/evertras/bubble-table,Unknown,Unknown
+github.com/fatih/color,Unknown,Unknown
+github.com/felixge/httpsnoop,Unknown,Unknown
+github.com/form3tech-oss/jwt-go,Unknown,Unknown
+github.com/fsnotify/fsnotify,Unknown,Unknown
+github.com/fujiwara/shapeio,Unknown,Unknown
+github.com/gabriel-vasile/mimetype,Unknown,Unknown
+github.com/glycerine/go-unsnap-stream,Unknown,Unknown
+github.com/go-chi/chi,Unknown,Unknown
+github.com/go-logr/logr,Unknown,Unknown
+github.com/go-logr/stdr,Unknown,Unknown
+github.com/go-sql-driver/mysql,Unknown,Unknown
+github.com/go-stack/stack,Unknown,Unknown
+github.com/gocarina/gocsv,Unknown,Unknown
+github.com/goccy/go-json,Unknown,Unknown
+github.com/godbus/dbus,Unknown,Unknown
+github.com/gofrs/uuid,Unknown,Unknown
+github.com/gogo/protobuf,Unknown,Unknown
+github.com/golang-jwt/jwt,Unknown,Unknown
+github.com/golang-jwt/jwt/v5,Unknown,Unknown
+github.com/golang-sql/civil,Unknown,Unknown
+github.com/golang/gddo,Unknown,Unknown
+github.com/golang/geo,Unknown,Unknown
+github.com/golang/groupcache,Unknown,Unknown
+github.com/golang/mock,Unknown,Unknown
+github.com/golang/protobuf,Unknown,Unknown
+github.com/golang/snappy,Unknown,Unknown
+github.com/google/btree,Unknown,Unknown
+github.com/google/flatbuffers,Unknown,Unknown
+github.com/google/go-cmp,Unknown,Unknown
+github.com/google/go-jsonnet,Unknown,Unknown
+github.com/google/s2a-go,Unknown,Unknown
+github.com/google/uuid,Unknown,Unknown
+github.com/googleapis/enterprise-certificate-proxy,Unknown,Unknown
+github.com/googleapis/gax-go/v2,Unknown,Unknown
+github.com/gsterjov/go-libsecret,Unknown,Unknown
+github.com/hashicorp/errwrap,Unknown,Unknown
+github.com/hashicorp/go-cleanhttp,Unknown,Unknown
+github.com/hashicorp/go-multierror,Unknown,Unknown
+github.com/hashicorp/go-retryablehttp,Unknown,Unknown
+github.com/hashicorp/go-rootcerts,Unknown,Unknown
+github.com/hashicorp/go-sockaddr,Unknown,Unknown
+github.com/hashicorp/hcl,Unknown,Unknown
+github.com/hashicorp/vault/api,Unknown,Unknown
+github.com/hashicorp/vault/sdk,Unknown,Unknown
+github.com/influxdata/cron,Unknown,Unknown
+github.com/influxdata/flux,Unknown,Unknown
+github.com/influxdata/go-prompt,Unknown,Unknown
+github.com/influxdata/gosnowflake,Unknown,Unknown
+github.com/influxdata/httprouter,Unknown,Unknown
+github.com/influxdata/influx-cli/v2,Unknown,Unknown
+github.com/influxdata/influxdb-client-go/v2,Unknown,Unknown
+github.com/influxdata/influxdb-iox-client-go,Unknown,Unknown
+github.com/influxdata/influxdb/v2,Unknown,Unknown
+github.com/influxdata/influxql,Unknown,Unknown
+github.com/influxdata/line-protocol,Unknown,Unknown
+github.com/influxdata/line-protocol/v2,Unknown,Unknown
+github.com/influxdata/tdigest,Unknown,Unknown
+github.com/jessevdk/go-flags,Unknown,Unknown
+github.com/jmespath/go-jmespath,Unknown,Unknown
+github.com/jmoiron/sqlx,Unknown,Unknown
+github.com/jsternberg/zap-logfmt,Unknown,Unknown
+github.com/jwilder/encoding,Unknown,Unknown
+github.com/kballard/go-shellquote,Unknown,Unknown
+github.com/klauspost/compress,Unknown,Unknown
+github.com/kylelemons/godebug,Unknown,Unknown
+github.com/lann/builder,Unknown,Unknown
+github.com/lann/ps,Unknown,Unknown
+github.com/lib/pq,Unknown,Unknown
+github.com/lucasb-eyer/go-colorful,Unknown,Unknown
+github.com/magiconair/properties,Unknown,Unknown
+github.com/mattn/go-colorable,Unknown,Unknown
+github.com/mattn/go-isatty,Unknown,Unknown
+github.com/mattn/go-runewidth,Unknown,Unknown
+github.com/mattn/go-sqlite3,Unknown,Unknown
+github.com/matttproud/golang_protobuf_extensions,Unknown,Unknown
+github.com/mgutz/ansi,Unknown,Unknown
+github.com/mileusna/useragent,Unknown,Unknown
+github.com/mitchellh/go-homedir,Unknown,Unknown
+github.com/mitchellh/mapstructure,Unknown,Unknown
+github.com/moby/sys/user,Unknown,Unknown
+github.com/mongodb/mongo-tools,Unknown,Unknown
+github.com/montanaflynn/stats,Unknown,Unknown
+github.com/mtibben/percent,Unknown,Unknown
+github.com/muesli/ansi,Unknown,Unknown
+github.com/muesli/cancelreader,Unknown,Unknown
+github.com/muesli/reflow,Unknown,Unknown
+github.com/muesli/termenv,Unknown,Unknown
+github.com/nsf/termbox-go,Unknown,Unknown
+github.com/olekukonko/tablewriter,Unknown,Unknown
+github.com/opencontainers/runc,Unknown,Unknown
+github.com/opentracing/opentracing-go,Unknown,Unknown
+github.com/pelletier/go-toml,Unknown,Unknown
+github.com/pelletier/go-toml/v2,Unknown,Unknown
+github.com/philhofer/fwd,Unknown,Unknown
+github.com/pierrec/lz4,Unknown,Unknown
+github.com/pierrec/lz4/v4,Unknown,Unknown
+github.com/pkg/browser,Unknown,Unknown
+github.com/pkg/errors,Unknown,Unknown
+github.com/pkg/term,Unknown,Unknown
+github.com/pmezard/go-difflib,Unknown,Unknown
+github.com/prometheus/client_golang,Unknown,Unknown
+github.com/prometheus/client_model,Unknown,Unknown
+github.com/prometheus/common,Unknown,Unknown
+github.com/prometheus/procfs,Unknown,Unknown
+github.com/retailnext/hllpp,Unknown,Unknown
+github.com/rivo/uniseg,Unknown,Unknown
+github.com/russross/blackfriday/v2,Unknown,Unknown
+github.com/ryanuber/go-glob,Unknown,Unknown
+github.com/samber/lo,Unknown,Unknown
+github.com/segmentio/kafka-go,Unknown,Unknown
+github.com/sergi/go-diff,Unknown,Unknown
+github.com/sirupsen/logrus,Unknown,Unknown
+github.com/spf13/afero,Unknown,Unknown
+github.com/spf13/cast,Unknown,Unknown
+github.com/spf13/cobra,Unknown,Unknown
+github.com/spf13/jwalterweatherman,Unknown,Unknown
+github.com/spf13/pflag,Unknown,Unknown
+github.com/spf13/viper,Unknown,Unknown
+github.com/stretchr/testify,Unknown,Unknown
+github.com/subosito/gotenv,Unknown,Unknown
+github.com/tianon/gosu,Unknown,Unknown
+github.com/tinylib/msgp,Unknown,Unknown
+github.com/tomwright/dasel/v2,Unknown,Unknown
+github.com/uber-go/tally,Unknown,Unknown
+github.com/uber/athenadriver,Unknown,Unknown
+github.com/uber/jaeger-client-go,Unknown,Unknown
+github.com/uber/jaeger-lib,Unknown,Unknown
+github.com/urfave/cli,Unknown,Unknown
+github.com/vertica/vertica-sql-go,Unknown,Unknown
+github.com/xdg-go/pbkdf2,Unknown,Unknown
+github.com/xdg-go/scram,Unknown,Unknown
+github.com/xdg-go/stringprep,Unknown,Unknown
+github.com/xlab/treeprint,Unknown,Unknown
+github.com/youmark/pkcs8,Unknown,Unknown
+github.com/zeebo/xxh3,Unknown,Unknown
+glob,Unknown,Unknown
+go,Unknown,Unknown
+go.etcd.io/bbolt,Unknown,Unknown
+go.mongodb.org/mongo-driver,Unknown,Unknown
+go.opencensus.io,Unknown,Unknown
+go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc,Unknown,Unknown
+go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp,Unknown,Unknown
+go.opentelemetry.io/otel,Unknown,Unknown
+go.opentelemetry.io/otel/metric,Unknown,Unknown
+go.opentelemetry.io/otel/trace,Unknown,Unknown
+go.uber.org/atomic,Unknown,Unknown
+go.uber.org/multierr,Unknown,Unknown
+go.uber.org/zap,Unknown,Unknown
+golang.org/x/crypto,Unknown,Unknown
+golang.org/x/exp,Unknown,Unknown
+golang.org/x/net,Unknown,Unknown
+golang.org/x/oauth2,Unknown,Unknown
+golang.org/x/sync,Unknown,Unknown
+golang.org/x/sys,Unknown,Unknown
+golang.org/x/term,Unknown,Unknown
+golang.org/x/text,Unknown,Unknown
+golang.org/x/time,Unknown,Unknown
+golang.org/x/tools,Unknown,Unknown
+golang.org/x/xerrors,Unknown,Unknown
+gonum.org/v1/gonum,Unknown,Unknown
+google.golang.org/api,Unknown,Unknown
+google.golang.org/genproto,Unknown,Unknown
+google.golang.org/genproto/googleapis/api,Unknown,Unknown
+google.golang.org/genproto/googleapis/rpc,Unknown,Unknown
+google.golang.org/grpc,Unknown,Unknown
+google.golang.org/protobuf,Unknown,Unknown
+gopkg.in/ini.v1,Unknown,Unknown
+gopkg.in/square/go-jose.v2,Unknown,Unknown
+gopkg.in/tomb.v2,Unknown,Unknown
+gopkg.in/yaml.v2,Unknown,Unknown
+gopkg.in/yaml.v3,Unknown,Unknown
+gpg-pubkey,Unknown,Unknown
+graceful-fs,Unknown,Unknown
+guava,Unknown,Unknown
+heatwave-chat,Unknown,Unknown
+high-scale-lib,Unknown,Unknown
+hosted-git-info,Unknown,Unknown
+hppc,Unknown,Unknown
+http-cache-semantics,Unknown,Unknown
+http-proxy-agent,Unknown,Unknown
+httpd,Unknown,Unknown
+https-proxy-agent,Unknown,Unknown
+iconv-lite,Unknown,Unknown
+ignore-walk,Unknown,Unknown
+importlib-metadata,Unknown,Unknown
+importlib-resources,Unknown,Unknown
+imurmurhash,Unknown,Unknown
+inflect,Unknown,Unknown
+ini,Unknown,Unknown
+init-package-json,Unknown,Unknown
+ip-address,Unknown,Unknown
+ip-regex,Unknown,Unknown
+ipaddress,Unknown,Unknown
+is-cidr,Unknown,Unknown
+is-fullwidth-code-point,Unknown,Unknown
+isexe,Unknown,Unknown
+j2objc-annotations,Unknown,Unknown
+jackson-annotations,Unknown,Unknown
+jackson-core,Unknown,Unknown
+jackson-databind,Unknown,Unknown
+jackson-datatype-jsr310,Unknown,Unknown
+jackspeak,Unknown,Unknown
+jamm,Unknown,Unknown
+jaraco-context,Unknown,Unknown
+jaraco-functools,Unknown,Unknown
+jaraco-text,Unknown,Unknown
+jbcrypt,Unknown,Unknown
+jcl-over-slf4j,Unknown,Unknown
+jcommander,Unknown,Unknown
+jctools-core,Unknown,Unknown
+jffi,Unknown,Unknown
+jna,Unknown,Unknown
+jna-platform,Unknown,Unknown
+jnr-a64asm,Unknown,Unknown
+jnr-constants,Unknown,Unknown
+jnr-ffi,Unknown,Unknown
+jnr-x86asm,Unknown,Unknown
+jrt-fs,Unknown,Unknown
+js-yaml,Unknown,Unknown
+jsbn,Unknown,Unknown
+json-parse-even-better-errors,Unknown,Unknown
+json-stringify-nice,Unknown,Unknown
+jsonparse,Unknown,Unknown
+jsr305,Unknown,Unknown
+just-diff,Unknown,Unknown
+just-diff-apply,Unknown,Unknown
+jvector-base,Unknown,Unknown
+jvm-attach-api,Unknown,Unknown
+libintl,Unknown,Unknown
+libnpmaccess,Unknown,Unknown
+libnpmdiff,Unknown,Unknown
+libnpmexec,Unknown,Unknown
+libnpmfund,Unknown,Unknown
+libnpmorg,Unknown,Unknown
+libnpmpack,Unknown,Unknown
+libnpmpublish,Unknown,Unknown
+libnpmsearch,Unknown,Unknown
+libnpmteam,Unknown,Unknown
+libnpmversion,Unknown,Unknown
+log4j-over-slf4j,Unknown,Unknown
+logback-classic,Unknown,Unknown
+logback-core,Unknown,Unknown
+lru-cache,Unknown,Unknown
+lucene-analysis-common,Unknown,Unknown
+lucene-core,Unknown,Unknown
+lz4-java,Unknown,Unknown
+make-fetch-happen,Unknown,Unknown
+memcached,Unknown,Unknown
+mercurial,Unknown,Unknown
+metrics-core,Unknown,Unknown
+metrics-jvm,Unknown,Unknown
+metrics-logback,Unknown,Unknown
+minimatch,Unknown,Unknown
+minipass,Unknown,Unknown
+minipass-collect,Unknown,Unknown
+minipass-fetch,Unknown,Unknown
+minipass-flush,Unknown,Unknown
+minipass-pipeline,Unknown,Unknown
+minipass-sized,Unknown,Unknown
+minizlib,Unknown,Unknown
+mkdirp,Unknown,Unknown
+more-itertools,Unknown,Unknown
+mrs-notes,Unknown,Unknown
+mrs-scripts-example,Unknown,Unknown
+mrs-sdk,Unknown,Unknown
+mrs-shell-plugin,Unknown,Unknown
+ms,Unknown,Unknown
+msm-shell-plugin,Unknown,Unknown
+mute-stream,Unknown,Unknown
+mxdump,Unknown,Unknown
+my-test-package,Unknown,Unknown
+mysql-shell,Unknown,Unknown
+native,Unknown,Unknown
+negotiator,Unknown,Unknown
+netty-all,Unknown,Unknown
+netty-buffer,Unknown,Unknown
+netty-codec,Unknown,Unknown
+netty-common,Unknown,Unknown
+netty-handler,Unknown,Unknown
+netty-handler-proxy,Unknown,Unknown
+netty-handler-ssl-ocsp,Unknown,Unknown
+netty-resolver,Unknown,Unknown
+netty-tcnative-boringssl-static,Unknown,Unknown
+netty-tcnative-classes,Unknown,Unknown
+netty-transport,Unknown,Unknown
+netty-transport-classes-epoll,Unknown,Unknown
+netty-transport-classes-kqueue,Unknown,Unknown
+netty-transport-native-epoll,Unknown,Unknown
+netty-transport-native-unix-common,Unknown,Unknown
+node,Unknown,Unknown
+node-gyp,Unknown,Unknown
+nopt,Unknown,Unknown
+normalize-package-data,Unknown,Unknown
+npm,Unknown,Unknown
+npm-audit-report,Unknown,Unknown
+npm-bundled,Unknown,Unknown
+npm-install-checks,Unknown,Unknown
+npm-normalize-package-bin,Unknown,Unknown
+npm-package-arg,Unknown,Unknown
+npm-packlist,Unknown,Unknown
+npm-pick-manifest,Unknown,Unknown
+npm-profile,Unknown,Unknown
+npm-registry-fetch,Unknown,Unknown
+npm-user-validate,Unknown,Unknown
+oci,Unknown,Unknown
+ohc-core,Unknown,Unknown
+ohc-core-j8,Unknown,Unknown
+ol,Unknown,Unknown
+openjdk,Unknown,Unknown
+openssl,Unknown,Unknown
+p-map,Unknown,Unknown
+package-json-from-dist,Unknown,Unknown
+packaging,Unknown,Unknown
+pacote,Unknown,Unknown
+paramiko,Unknown,Unknown
+parse-conflict-json,Unknown,Unknown
+path-key,Unknown,Unknown
+path-scurry,Unknown,Unknown
+picomatch,Unknown,Unknown
+pip,Unknown,Unknown
+platformdirs,Unknown,Unknown
+posix,Unknown,Unknown
+postcss-selector-parser,Unknown,Unknown
+proc-log,Unknown,Unknown
+proggy,Unknown,Unknown
+promise-all-reject-late,Unknown,Unknown
+promise-call-limit,Unknown,Unknown
+promise-retry,Unknown,Unknown
+promzard,Unknown,Unknown
+psjava,Unknown,Unknown
+pycparser,Unknown,Unknown
+pynacl,Unknown,Unknown
+pyopenssl,Unknown,Unknown
+python,Unknown,Unknown
+python-dateutil,Unknown,Unknown
+pytz,Unknown,Unknown
+pyyaml,Unknown,Unknown
+qrcode-terminal,Unknown,Unknown
+read,Unknown,Unknown
+read-cmd-shim,Unknown,Unknown
+read-package-json-fast,Unknown,Unknown
+redis,Unknown,Unknown
+retry,Unknown,Unknown
+safer-buffer,Unknown,Unknown
+semver,Unknown,Unknown
+semver4j,Unknown,Unknown
+setuptools,Unknown,Unknown
+shebang-command,Unknown,Unknown
+shebang-regex,Unknown,Unknown
+sigar,Unknown,Unknown
+signal-exit,Unknown,Unknown
+sigstore,Unknown,Unknown
+six,Unknown,Unknown
+sjk-cli,Unknown,Unknown
+sjk-core,Unknown,Unknown
+sjk-json,Unknown,Unknown
+sjk-stacktrace,Unknown,Unknown
+slf4j-api,Unknown,Unknown
+smart-buffer,Unknown,Unknown
+snakeyaml,Unknown,Unknown
+snappy-java,Unknown,Unknown
+socks,Unknown,Unknown
+socks-proxy-agent,Unknown,Unknown
+spdx-correct,Unknown,Unknown
+spdx-exceptions,Unknown,Unknown
+spdx-expression-parse,Unknown,Unknown
+spdx-license-ids,Unknown,Unknown
+sprintf-js,Unknown,Unknown
+ssri,Unknown,Unknown
+stdlib,Unknown,Unknown
+stream,Unknown,Unknown
+stress,Unknown,Unknown
+string-width,Unknown,Unknown
+strip-ansi,Unknown,Unknown
+supports-color,Unknown,Unknown
+tar,Unknown,Unknown
+text-table,Unknown,Unknown
+tiny-relative-date,Unknown,Unknown
+tinyglobby,Unknown,Unknown
+tomli,Unknown,Unknown
+treeverse,Unknown,Unknown
+tuf-js,Unknown,Unknown
+typeguard,Unknown,Unknown
+typing-extensions,Unknown,Unknown
+ubuntu,Unknown,Unknown
+unique-filename,Unknown,Unknown
+unique-slug,Unknown,Unknown
+util-deprecate,Unknown,Unknown
+util-linux packagers <util-linux@packages.debian.org>,Unknown,Unknown
+validate-npm-package-license,Unknown,Unknown
+validate-npm-package-name,Unknown,Unknown
+walk-up-path,Unknown,Unknown
+wheel,Unknown,Unknown
+which,Unknown,Unknown
+wrap-ansi,Unknown,Unknown
+write-file-atomic,Unknown,Unknown
+yallist,Unknown,Unknown
+yarn,Unknown,Unknown
+zipp,Unknown,Unknown
+zstd-jni,Unknown,Unknown
+أحمد المحمودي (Ahmed El-Mahmoudy) <aelmahmoudy@users.sourceforge.net>,Unknown,Unknown

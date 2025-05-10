@@ -1,0 +1,183 @@
+{
+  "$schema": "http://cyclonedx.org/schema/bom-1.6.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "serialNumber": "urn:uuid:15f4e279-1bc2-41ca-ace6-8a29d3407f48",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2025-05-10T09:24:43-04:00",
+    "tools": {
+      "components": [
+        {
+          "type": "application",
+          "author": "anchore",
+          "name": "grype",
+          "version": "0.91.2"
+        }
+      ]
+    },
+    "component": {
+      "bom-ref": "c5fd25595ce67df8",
+      "type": "container",
+      "name": "busybox",
+      "version": "sha256:3a8fb2f99dba96d1576efc9da1d80cbb7cb75c8d88fadf0c3d901fd2325ddc2a"
+    }
+  },
+  "components": [
+    {
+      "bom-ref": "pkg:generic/busybox@1.37.0?package-id=b39e39eb6fe718cf",
+      "type": "application",
+      "name": "busybox",
+      "version": "1.37.0",
+      "cpe": "cpe:2.3:a:busybox:busybox:1.37.0:*:*:*:*:*:*:*",
+      "purl": "pkg:generic/busybox@1.37.0",
+      "properties": [
+        {
+          "name": "syft:package:foundBy",
+          "value": "binary-classifier-cataloger"
+        },
+        {
+          "name": "syft:package:type",
+          "value": "binary"
+        },
+        {
+          "name": "syft:package:metadataType",
+          "value": "binary-signature"
+        },
+        {
+          "name": "syft:location:0:layerID",
+          "value": "sha256:be632cf9bbb67418a8f58f8060688ab5acafada505df69765277d254bf62ccb4"
+        },
+        {
+          "name": "syft:location:0:path",
+          "value": "/bin/["
+        }
+      ]
+    },
+    {
+      "bom-ref": "os:busybox@1.37.0",
+      "type": "operating-system",
+      "name": "busybox",
+      "version": "1.37.0",
+      "description": "BusyBox v1.37.0",
+      "swid": {
+        "tagId": "busybox",
+        "name": "busybox",
+        "version": "1.37.0"
+      },
+      "properties": [
+        {
+          "name": "syft:distro:id",
+          "value": "busybox"
+        },
+        {
+          "name": "syft:distro:idLike:0",
+          "value": "busybox"
+        },
+        {
+          "name": "syft:distro:prettyName",
+          "value": "BusyBox v1.37.0"
+        },
+        {
+          "name": "syft:distro:versionID",
+          "value": "1.37.0"
+        }
+      ]
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "bom-ref": "urn:uuid:8ec08d82-b97d-449e-ab8a-00125cd13b71",
+      "id": "CVE-2024-58251",
+      "source": {
+        "name": "nvd-cpe",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-58251"
+      },
+      "references": [
+        {
+          "id": "CVE-2024-58251",
+          "source": {
+            "name": "nvd-cpe",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-58251"
+          }
+        }
+      ],
+      "ratings": [
+        {
+          "score": 2.5,
+          "severity": "low",
+          "method": "CVSSv31",
+          "vector": "CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:N/I:N/A:L"
+        }
+      ],
+      "description": "In netstat in BusyBox through 1.37.0, local users can launch of network application with an argv[0] containing an ANSI terminal escape sequence, leading to a denial of service (terminal locked up) when netstat is used by a victim.",
+      "advisories": [
+        {
+          "url": "https://bugs.busybox.net/show_bug.cgi?id=15922"
+        },
+        {
+          "url": "https://www.busybox.net"
+        },
+        {
+          "url": "https://www.busybox.net/downloads/"
+        },
+        {
+          "url": "http://www.openwall.com/lists/oss-security/2025/04/23/6"
+        }
+      ],
+      "affects": [
+        {
+          "ref": "pkg:generic/busybox@1.37.0?package-id=b39e39eb6fe718cf"
+        }
+      ]
+    },
+    {
+      "bom-ref": "urn:uuid:00eceaff-9139-4fa3-ab3e-f3ac88d0054d",
+      "id": "CVE-2025-46394",
+      "source": {
+        "name": "nvd-cpe",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-46394"
+      },
+      "references": [
+        {
+          "id": "CVE-2025-46394",
+          "source": {
+            "name": "nvd-cpe",
+            "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-46394"
+          }
+        }
+      ],
+      "ratings": [
+        {
+          "score": 3.2,
+          "severity": "low",
+          "method": "CVSSv31",
+          "vector": "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:C/C:N/I:L/A:N"
+        }
+      ],
+      "description": "In tar in BusyBox through 1.37.0, a TAR archive can have filenames hidden from a listing through the use of terminal escape sequences.",
+      "advisories": [
+        {
+          "url": "https://bugs.busybox.net/show_bug.cgi?id=16018"
+        },
+        {
+          "url": "https://www.busybox.net"
+        },
+        {
+          "url": "https://www.busybox.net/downloads/"
+        },
+        {
+          "url": "http://www.openwall.com/lists/oss-security/2025/04/23/5"
+        },
+        {
+          "url": "http://www.openwall.com/lists/oss-security/2025/04/24/3"
+        }
+      ],
+      "affects": [
+        {
+          "ref": "pkg:generic/busybox@1.37.0?package-id=b39e39eb6fe718cf"
+        }
+      ]
+    }
+  ]
+}
