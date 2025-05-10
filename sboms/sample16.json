@@ -1,0 +1,83 @@
+{
+  "components": [
+    {
+      "publisher": "TyrellCorp",
+      "name": "component-0",
+      "version": "2.1.7",
+      "level": "level 1",
+      "cves": []
+    },
+    {
+      "publisher": "Initech",
+      "name": "component-1",
+      "version": "5.0.6",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-1910",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "Globex",
+      "name": "component-2",
+      "version": "2.7.9",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-6733",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-3252",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-5665",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "Cyberdyne",
+      "name": "component-3",
+      "version": "2.7.7",
+      "level": "level 0",
+      "cves": [
+        {
+          "id": "CVE-2023-1108",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-2980",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-1565",
+          "severity": "medium"
+        }
+      ]
+    },
+    {
+      "publisher": "AcmeCorp",
+      "name": "component-4",
+      "version": "2.1.6",
+      "level": "level 0",
+      "cves": [
+        {
+          "id": "CVE-2023-5598",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-4027",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-5681",
+          "severity": "critical"
+        }
+      ]
+    }
+  ]
+}

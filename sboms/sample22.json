@@ -1,0 +1,120 @@
+{
+  "components": [
+    {
+      "publisher": "Hooli",
+      "name": "component-0",
+      "version": "1.4.4",
+      "level": "level 2",
+      "cves": [
+        {
+          "id": "CVE-2023-1275",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "TyrellCorp",
+      "name": "component-1",
+      "version": "2.1.7",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-9843",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-2969",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-7783",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-8580",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "Cyberdyne",
+      "name": "component-2",
+      "version": "4.1.8",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-3499",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-9278",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "UmbrellaCorp",
+      "name": "component-3",
+      "version": "1.3.4",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-2212",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-8454",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-8045",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-9254",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "Globex",
+      "name": "component-4",
+      "version": "2.3.5",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-5026",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-7895",
+          "severity": "medium"
+        }
+      ]
+    },
+    {
+      "publisher": "Initech",
+      "name": "component-5",
+      "version": "4.8.2",
+      "level": "level 2",
+      "cves": [
+        {
+          "id": "CVE-2023-2547",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-7147",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-3624",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-5563",
+          "severity": "high"
+        }
+      ]
+    }
+  ]
+}

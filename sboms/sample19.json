@@ -1,0 +1,150 @@
+{
+  "components": [
+    {
+      "publisher": "StarkIndustries",
+      "name": "component-0",
+      "version": "5.5.1",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-4627",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-5376",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-4658",
+          "severity": "medium"
+        }
+      ]
+    },
+    {
+      "publisher": "StarkIndustries",
+      "name": "component-1",
+      "version": "3.6.2",
+      "level": "level 2",
+      "cves": [
+        {
+          "id": "CVE-2023-4126",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-9096",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "AcmeCorp",
+      "name": "component-2",
+      "version": "3.4.6",
+      "level": "level 0",
+      "cves": [
+        {
+          "id": "CVE-2023-4595",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-7546",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-1825",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "UmbrellaCorp",
+      "name": "component-3",
+      "version": "4.1.4",
+      "level": "level 2",
+      "cves": [
+        {
+          "id": "CVE-2023-6150",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-2515",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-1117",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-6157",
+          "severity": "medium"
+        }
+      ]
+    },
+    {
+      "publisher": "Hooli",
+      "name": "component-4",
+      "version": "3.7.0",
+      "level": "level 1",
+      "cves": []
+    },
+    {
+      "publisher": "Cyberdyne",
+      "name": "component-5",
+      "version": "4.6.4",
+      "level": "level 3",
+      "cves": [
+        {
+          "id": "CVE-2023-5528",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "UmbrellaCorp",
+      "name": "component-6",
+      "version": "1.3.3",
+      "level": "level 2",
+      "cves": [
+        {
+          "id": "CVE-2023-1773",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-3736",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "Cyberdyne",
+      "name": "component-7",
+      "version": "4.3.7",
+      "level": "level 1",
+      "cves": []
+    },
+    {
+      "publisher": "AcmeCorp",
+      "name": "component-8",
+      "version": "2.2.8",
+      "level": "level 0",
+      "cves": [
+        {
+          "id": "CVE-2023-6715",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-6003",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-3099",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-6029",
+          "severity": "high"
+        }
+      ]
+    }
+  ]
+}

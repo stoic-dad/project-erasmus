@@ -1,0 +1,153 @@
+{
+  "components": [
+    {
+      "publisher": "Globex",
+      "name": "component-0",
+      "version": "5.8.0",
+      "level": "level 1",
+      "cves": []
+    },
+    {
+      "publisher": "Initech",
+      "name": "component-1",
+      "version": "5.8.7",
+      "level": "level 0",
+      "cves": [
+        {
+          "id": "CVE-2023-6936",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-4014",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-5439",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-6653",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-3655",
+          "severity": "medium"
+        }
+      ]
+    },
+    {
+      "publisher": "Hooli",
+      "name": "component-2",
+      "version": "2.6.0",
+      "level": "level 2",
+      "cves": [
+        {
+          "id": "CVE-2023-9815",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-2017",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-5375",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-7426",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "UmbrellaCorp",
+      "name": "component-3",
+      "version": "4.7.8",
+      "level": "level 0",
+      "cves": [
+        {
+          "id": "CVE-2023-1739",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "Initech",
+      "name": "component-4",
+      "version": "4.0.0",
+      "level": "level 0",
+      "cves": []
+    },
+    {
+      "publisher": "Hooli",
+      "name": "component-5",
+      "version": "2.0.3",
+      "level": "level 1",
+      "cves": []
+    },
+    {
+      "publisher": "AcmeCorp",
+      "name": "component-6",
+      "version": "4.5.0",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-2126",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-8365",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-2641",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "Globex",
+      "name": "component-7",
+      "version": "1.7.2",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-7069",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-8881",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "Initech",
+      "name": "component-8",
+      "version": "1.8.0",
+      "level": "level 3",
+      "cves": [
+        {
+          "id": "CVE-2023-7427",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-1421",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-1171",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-9153",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-9732",
+          "severity": "critical"
+        }
+      ]
+    }
+  ]
+}

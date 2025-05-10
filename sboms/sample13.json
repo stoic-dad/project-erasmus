@@ -1,0 +1,170 @@
+{
+  "components": [
+    {
+      "publisher": "TyrellCorp",
+      "name": "component-0",
+      "version": "5.0.8",
+      "level": "level 0",
+      "cves": [
+        {
+          "id": "CVE-2023-3251",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-1074",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "AcmeCorp",
+      "name": "component-1",
+      "version": "3.5.5",
+      "level": "level 1",
+      "cves": []
+    },
+    {
+      "publisher": "WonkaIndustries",
+      "name": "component-2",
+      "version": "1.5.6",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-4507",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-3153",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-2340",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "Globex",
+      "name": "component-3",
+      "version": "3.4.5",
+      "level": "level 0",
+      "cves": []
+    },
+    {
+      "publisher": "Hooli",
+      "name": "component-4",
+      "version": "5.7.8",
+      "level": "level 3",
+      "cves": [
+        {
+          "id": "CVE-2023-2900",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-3602",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "UmbrellaCorp",
+      "name": "component-5",
+      "version": "3.9.9",
+      "level": "level 3",
+      "cves": [
+        {
+          "id": "CVE-2023-8164",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-2084",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "AcmeCorp",
+      "name": "component-6",
+      "version": "4.0.1",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-6786",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-5522",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "Hooli",
+      "name": "component-7",
+      "version": "2.9.6",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-6461",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-3806",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-8992",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-9703",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-9392",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "WayneEnterprises",
+      "name": "component-8",
+      "version": "3.2.0",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-7194",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-8571",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-2479",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-7487",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-1690",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "TyrellCorp",
+      "name": "component-9",
+      "version": "5.8.5",
+      "level": "level 0",
+      "cves": [
+        {
+          "id": "CVE-2023-8333",
+          "severity": "critical"
+        }
+      ]
+    }
+  ]
+}

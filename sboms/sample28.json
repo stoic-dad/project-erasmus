@@ -1,0 +1,128 @@
+{
+  "components": [
+    {
+      "publisher": "TyrellCorp",
+      "name": "component-0",
+      "version": "3.5.6",
+      "level": "level 3",
+      "cves": [
+        {
+          "id": "CVE-2023-4451",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-4926",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-5562",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-7614",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "StarkIndustries",
+      "name": "component-1",
+      "version": "4.7.6",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-8716",
+          "severity": "medium"
+        }
+      ]
+    },
+    {
+      "publisher": "AcmeCorp",
+      "name": "component-2",
+      "version": "2.6.4",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-1045",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-1283",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "UmbrellaCorp",
+      "name": "component-3",
+      "version": "2.7.3",
+      "level": "level 3",
+      "cves": [
+        {
+          "id": "CVE-2023-5181",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-3922",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-4212",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-4973",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-9313",
+          "severity": "medium"
+        }
+      ]
+    },
+    {
+      "publisher": "Globex",
+      "name": "component-4",
+      "version": "4.0.5",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-6936",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "WonkaIndustries",
+      "name": "component-5",
+      "version": "4.6.8",
+      "level": "level 2",
+      "cves": [
+        {
+          "id": "CVE-2023-3737",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "Cyberdyne",
+      "name": "component-6",
+      "version": "4.9.5",
+      "level": "level 0",
+      "cves": [
+        {
+          "id": "CVE-2023-1100",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-2759",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-8535",
+          "severity": "medium"
+        }
+      ]
+    }
+  ]
+}

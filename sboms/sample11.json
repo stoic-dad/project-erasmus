@@ -1,0 +1,134 @@
+{
+  "components": [
+    {
+      "publisher": "AcmeCorp",
+      "name": "component-0",
+      "version": "2.5.1",
+      "level": "level 0",
+      "cves": []
+    },
+    {
+      "publisher": "AcmeCorp",
+      "name": "component-1",
+      "version": "4.1.8",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-2924",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-7356",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-2516",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "Globex",
+      "name": "component-2",
+      "version": "3.5.0",
+      "level": "level 0",
+      "cves": []
+    },
+    {
+      "publisher": "Cyberdyne",
+      "name": "component-3",
+      "version": "2.3.0",
+      "level": "level 1",
+      "cves": [
+        {
+          "id": "CVE-2023-4692",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-3349",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-8561",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-2911",
+          "severity": "critical"
+        },
+        {
+          "id": "CVE-2023-7759",
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "publisher": "WayneEnterprises",
+      "name": "component-4",
+      "version": "1.3.8",
+      "level": "level 3",
+      "cves": [
+        {
+          "id": "CVE-2023-7826",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-9505",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-5452",
+          "severity": "medium"
+        }
+      ]
+    },
+    {
+      "publisher": "Globex",
+      "name": "component-5",
+      "version": "3.4.6",
+      "level": "level 3",
+      "cves": [
+        {
+          "id": "CVE-2023-2234",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-7586",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-6805",
+          "severity": "critical"
+        }
+      ]
+    },
+    {
+      "publisher": "Initech",
+      "name": "component-6",
+      "version": "3.8.7",
+      "level": "level 3",
+      "cves": [
+        {
+          "id": "CVE-2023-6092",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-5925",
+          "severity": "high"
+        },
+        {
+          "id": "CVE-2023-9671",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-8001",
+          "severity": "medium"
+        },
+        {
+          "id": "CVE-2023-1479",
+          "severity": "critical"
+        }
+      ]
+    }
+  ]
+}
