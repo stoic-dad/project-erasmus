@@ -56,3 +56,7 @@ http://localhost:8501
 This project was a hands-on exploration of combining GenAI, software system complexity, and interactive reasoning. Named after Erasmus from Dune — one of the most unsettling thinking machines in sci-fi history — it’s a nod to curiosity and the challenge of understanding complex systems.
 
 Happy to connect if you’re into AI reasoning, DevSecOps, or nerding out over cognitive systems!
+
+![GitHub last commit](https://img.shields.io/github/last-commit/stoic-dad/project-erasmus)
+![GitHub repo size](https://img.shields.io/github/repo-size/stoic-dad/project-erasmus)
+![GitHub](https://img.shields.io/github/license/stoic-dad/project-erasmus)
